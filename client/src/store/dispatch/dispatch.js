@@ -1,0 +1,5 @@
+export const HIT_API = 'HIT_API'
+export const SUCCESS_HIT_API = 'SUCCESS_HIT_API'
+export const API_LOADING = 'API_LOADING'
+export const ERROR_HIT_API = 'ERROR_HIT_API'
+export const INCREMENT_PAGE = 'INCREMENT_PAGE'
